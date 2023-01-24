@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Jangir, :earth_asia: Bengaluru, INDIA
 - :office: Currently working for Tata Consultancy Services
 - 👀 I’m interested in Geo-polytics, Web-&-mobile development ...
-- 🌱 I’m currently learning Flutter, NestJS
+- 🌱 I’m currently learning Flutter, GoLang
 - 📫 How to reach me ...
 
 <!---
